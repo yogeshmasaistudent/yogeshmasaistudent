@@ -1,6 +1,7 @@
 
-## 🚀 About Me
 ![Logo](https://img.freepik.com/premium-vector/welcome-banner-word-white-background-colorful-rainbow-sign-label-design-wallpaper-vector-illustration_87543-10859.jpg?w=2000)
+
+## 🚀 About Me
 
 #I'm aspriring full stack developer..
 

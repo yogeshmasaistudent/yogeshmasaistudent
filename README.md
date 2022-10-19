@@ -1,12 +1,10 @@
 
 ## 🚀 About Me
-I'm aspriring full stack developer...
-
-![Logo](https://image.shutterstock.com/image-vector/welcome-inscription-distorted-glitch-style-260nw-1464330458.jpg)
+I'm aspriring full stack developer..
 
 
 # Hi, I'm yogesh!  working on something new👋
-
+![Logo](https://image.shutterstock.com/image-vector/welcome-inscription-distorted-glitch-style-260nw-1464330458.jpg)
 
 ## 🛠 Skills
 Javascript, HTML, CSS...

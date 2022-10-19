@@ -5,7 +5,7 @@
 
 # Hi, I'm Aspiring Full Stack Developer =>👋
 
-# Hi, I'm yogesh!  working on something new👋
+# I'm yogesh!  working on something new👋
 
 
 ## 🛠 Skills

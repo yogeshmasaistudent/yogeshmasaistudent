@@ -3,8 +3,7 @@
 
 ## 🚀 About Me
 
-#I'm aspriring full stack developer..
-
+# Hi, I'm Aspiring Full Stack Developer =>👋
 
 # Hi, I'm yogesh!  working on something new👋
 

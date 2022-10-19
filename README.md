@@ -23,7 +23,6 @@ Javascript, HTML, CSS...
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working , i am waiting for job .
-![Logo](https://media.gettyimages.com/photos/woman-busy-working-on-her-laptop-at-cafe-picture-id1129377183?s=612x612)
 🧠 I'm currently learning full stack developement
 
 👯‍♀️ I'm looking to collaborate on some learning project.

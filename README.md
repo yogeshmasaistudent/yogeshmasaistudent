@@ -1,10 +1,12 @@
 
 ## 🚀 About Me
-I'm aspriring full stack developer..
+![Logo](https://img.freepik.com/premium-vector/welcome-banner-word-white-background-colorful-rainbow-sign-label-design-wallpaper-vector-illustration_87543-10859.jpg?w=2000)
+
+#I'm aspriring full stack developer..
 
 
 # Hi, I'm yogesh!  working on something new👋
-![Logo](https://img.freepik.com/premium-vector/welcome-banner-word-white-background-colorful-rainbow-sign-label-design-wallpaper-vector-illustration_87543-10859.jpg?w=2000)
+
 
 ## 🛠 Skills
 Javascript, HTML, CSS...

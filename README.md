@@ -80,12 +80,9 @@
 <br/>
 
 ## 📊 My Github Stats
+![yogeshmasaistudent github stats](https://github-readme-stats.vercel.app/api?username=yogeshmasaistudent&show_icons=true&theme=tokyonight)
 
-<p align="center">
-    <a href="">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmasaistudent&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 
   <br/>

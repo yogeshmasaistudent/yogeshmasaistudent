@@ -82,7 +82,9 @@
 ## 📊 My Github Stats
 ![yogeshmasaistudent github stats](https://github-readme-stats.vercel.app/api?username=yogeshmasaistudent&show_icons=true&theme=tokyonight)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmasaistudent&theme=tokyonight" alt="mystreak"/>
 
+![yogeshmasaistudent Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshmasaistudent&theme=tokyonight&layout=compact)
 
 
   <br/>

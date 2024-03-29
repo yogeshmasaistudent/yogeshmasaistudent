@@ -87,7 +87,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmasaistudent&theme=tokyonight" alt="mystreak" width="670">
 
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogeshmasaistudent&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogeshmasaistudent&theme=github_dark"  width="670">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogeshmasaistudent&theme=github_dark">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogeshmasaistudent&theme=github_dark">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yogeshmasaistudent&theme=github_dark">

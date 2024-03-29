@@ -79,25 +79,22 @@
 
 <br/>
 
-## 📊 My Github Stats
 
 
-  ![yogeshmasaistudent github stats](https://github-readme-stats.vercel.app/api?username=yogeshmasaistudent&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshmasaistudent&show_icons=true&theme=tokyonight" alt="yogeshmasaistudent github stats" width="670">
+<br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmasaistudent&theme=tokyonight" alt="mystreak" width="670">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmasaistudent&theme=tokyonight" alt="mystreak"/>
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogeshmasaistudent&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogeshmasaistudent&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogeshmasaistudent&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yogeshmasaistudent&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yogeshmasaistudent&theme=github_dark&utcOffset=8">
+  </p>
+</div>
 
-
-
-
-
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogeshmasaistudent&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogeshmasaistudent&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogeshmasaistudent&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yogeshmasaistudent&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yogeshmasaistudent&theme=github_dark&utcOffset=8">
-</p>
 
   <br/>
 <br/>

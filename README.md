@@ -1,101 +1,161 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Yogesh kushawah</h1>
+<h1 align="center">Hi 👋, I'm Yogesh Kushawah</h1>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Building+Scalable+Solutions;Open+to+Opportunities&color=00d9ff&center=true" />
 </div>
 
-<h4>- Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h4>
-<h4>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems </h4>
+<h3 align="center">🚀 Full Stack Developer crafting scalable web applications with clean code and modern architecture</h3>
 
 <br/>
+
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
 
-<h3> 🙋‍♂️ About Me </h3>
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Full Stack Web Development course** at **Masai School**
+Full Stack Web Developer specializing in the MERN stack, building end-to-end applications with focus on performance, scalability, and user experience. Currently pursuing **Master of Computer Applications at VIT** while leading development teams and shipping production-grade applications.
 
-- 👯 I’m looking to work as Full Stack Web Developer
+- 🔭 Currently working as **Full Stack Developer at Qurocity**
+- 👨‍🏫 Leading a **10-member development team** in agile environments
+- 🌱 Building AI-integrated platforms and optimizing CI/CD pipelines
+- 💡 Passionate about **clean architecture**, RESTful API design, and responsive UI/UX
+- 📫 Reach me at **kushawahyogesh93@gmail.com**
+- 📍 Based in **Agra, Uttar Pradesh**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express**
+<br clear="right"/>
 
-- 📫 How to reach me **kushawahyogesh93@gmail.com**
+## 🎯 What I Do
 
-- 🔭 Visit my <a href=""><strong>portfolio</strong></a>
-
-- ⚡ Fun fact **I love to read and enjoy going on road trips**
-
-
+- Design and develop **scalable full stack applications** using React, Node.js, Express, and MongoDB
+- Build **RESTful APIs** with robust authentication, validation, and error handling
+- Create **responsive, accessible UIs** with modern frameworks (React, Redux, Chakra UI, Tailwind)
+- Lead development teams, conduct code reviews, and mentor junior developers
+- Integrate **third-party APIs** (OpenAI, payment gateways) and optimize performance
+- Manage **CI/CD workflows**, version control, and deployment pipelines
 
 <br/>
 
+## 💼 Professional Experience
+
+### Full Stack Developer | Qurocity
+**Dec 2024 - Sep 2025**
+- Leading end-to-end development of full stack applications using MERN stack
+- Managing 10-member development team with task allocation and sprint planning
+- Optimizing backend/frontend integration for seamless user experience
+- Implementing CI/CD workflows and maintaining code quality standards
+
+### Software Development Engineer | WILYER PVT. LTD.
+**July 2024 - Dec 2024**
+- Revamped CMS interface for enhanced engagement and mobile responsiveness
+- Engineered dynamic screen-scheduling feature for digital signage
+- Collaborated with cross-functional teams in agile environment
+
+### Full Stack Developer | Masai (Remote)
+**July 2023 - June 2024**
+- Developed responsive web applications with modern full-stack technologies
+- Provided coding instruction and mentorship to students
+- Conducted mock interviews for technical assessment preparation
+
 <br/>
 
-<h3 align="left">Connect with me on:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yogeshkushawah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakarsh-devadiga-416a901a5" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yogeshkushawah3672/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aakarsh" height="30" width="40" /></a>
+## 🚀 Featured Projects
+
+### [VerbiQ](https://www.verbiq.ai)
+Platform for language-specific job opportunities including French, British English, and other linguistic roles
+- **Tech:** MERN Stack, RESTful APIs, Authentication
+- **Highlights:** Modular architecture, scalable data modeling, role-based access
+
+### [Kitchen Kingdom AI](https://kitchen-kingdom-ai.vercel.app) | [GitHub](https://github.com/yogeshmasaistudent/Kitchen-Kingdom-AI)
+AI-powered recipe generation platform with personalized dish recommendations
+- **Tech:** React.js, Chakra UI, OpenAI API, Node.js
+- **Highlights:** API integration, responsive design, secure key handling
+
+### [MiniMinds](https://miniminds-chi.vercel.app) | [GitHub](https://github.com/yogeshmasaistudent/Algorithm-Samrat)
+Child-friendly educational portal with interactive card-based navigation
+- **Tech:** React, Responsive Design, Modern UI patterns
+- **Highlights:** Mobile-first approach, accessibility, smooth UX
+
+<br/>
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)** | Vellore Institute of Technology | 2027 (Pursuing)
+
+**Full Stack Web Development** | Masai School, Bengaluru | 2024
+
+**Bachelor of Science (Mathematics)** | Dr. Bhim Rao Ambedkar University, Agra | 2022
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshmasaistudent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmasaistudent&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogeshmasaistudent&theme=tokyonight" width="100%">
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/yogeshkushawah/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/yogeshmasaistudent" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:kushawahyogesh93@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.instagram.com/yogeshkushawah3672/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
 </p>
 
 <br/>
 
-<h3 align="left">🚀 Languages and Tools:</h3>
 <div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
-<img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
-<br/>
-<br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
-</div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
- </div>
-  <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <br/>
-<br/>
- </div>
+  <img src="https://komarev.com/ghpvc/?username=yogeshmasaistudent&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<br/>
+---
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshmasaistudent&show_icons=true&theme=tokyonight" alt="yogeshmasaistudent github stats" width="670">
-<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmasaistudent&theme=tokyonight" alt="mystreak" width="670">
-
-  <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogeshmasaistudent&theme=github_dark"  width="670">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogeshmasaistudent&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogeshmasaistudent&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yogeshmasaistudent&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yogeshmasaistudent&theme=github_dark&utcOffset=8">
-  </p>
-</div>
-
-
-  <br/>
-<br/>
-<br/>

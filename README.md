@@ -265,7 +265,7 @@ Currently pursuing my **Master of Computer Applications at VIT**, while leading 
 <div align="center" width="110%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshmasaistudent&layout=compact&theme=tokyonight&hide_border=true" width="48%" height="200px" alt="Top Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogeshmasaistudent&theme=tokyonight" width="50%" height="200px" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogeshmasaistudent&theme=tokyonight" width="48%" height="200px" alt="Repos per Language"/>
 
 </div>
 

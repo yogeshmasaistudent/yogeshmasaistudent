@@ -249,29 +249,28 @@ Currently pursuing my **Master of Computer Applications at VIT**, while leading 
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogeshmasaistudent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmasaistudent&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+<div align="center" width="100%"  gap: 5px; align-items:">
+<img src="https://github-readme-stats.vercel.app/api?username=yogeshmasaistudent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" height="172px" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmasaistudent&theme=tokyonight&hide_border=true" width="49%" height="200px" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshmasaistudent&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</div align="center" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshmasaistudent&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogeshmasaistudent&theme=tokyonight" width="100%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogeshmasaistudent&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Profile Summary"/>
 
 </div>
-
-<details>
-<summary><b>📊 More GitHub Metrics</b></summary>
 <br>
 
-<div align="center">
+<div align="center" width="110%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshmasaistudent&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogeshmasaistudent&theme=tokyonight" width="48%" alt="Repos per Language"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshmasaistudent&layout=compact&theme=tokyonight&hide_border=true" width="48%" height="200px" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogeshmasaistudent&theme=tokyonight" width="50%" height="200px" alt="Repos per Language"/>
 
 </div>
 
-</details>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
